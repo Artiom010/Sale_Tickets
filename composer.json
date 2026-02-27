@@ -1,0 +1,9 @@
+{
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "endroid/qr-code": "4.4",
+        "bacon/bacon-qr-code": "2.0.4",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^7.3"
+    }
+}
